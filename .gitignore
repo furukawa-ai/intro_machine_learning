@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 .DS_Store
 MNIST_data/
+*.yaml
+*.h5
