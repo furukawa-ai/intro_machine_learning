@@ -3,3 +3,4 @@
 MNIST_data/
 *.yaml
 *.h5
+*.pyc
