@@ -4,3 +4,6 @@ MNIST_data/
 *.yaml
 *.h5
 *.pyc
+
+gorilla.jpg
+elephant.jpg
